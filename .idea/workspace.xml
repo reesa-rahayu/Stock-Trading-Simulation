@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6472b6f-9e99-45bf-a653-7a48861a056f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Stock Trading Simulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep Learning/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPO training with gymnasium/AAPL.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPO training with gymnasium/PPO_DataCamp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPO training with gymnasium/notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PPO training with gymnasium/spreedsheet_finance.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep Learning/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep Learning/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPO training with gymnasium/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PPO training with gymnasium/notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "reesa-rahayu"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/reesa-rahayu/Stock-Trading-Simulation.git",
+    "accountId": "ba5fb489-59b9-4ad3-b8b1-23570db8d2cf"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2tigJcrFudNQTaNfBh6ymailvX0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +50,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/2. NGODINGS/AI ML DATA/Project/RAG Chatbots for Technical Documentation",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740840238254</updated>
       <workItem from="1740840239364" duration="2500000" />
+      <workItem from="1741599444307" duration="94000" />
     </task>
     <servers />
   </component>
